@@ -50,6 +50,8 @@ void draw()
     ////if(base.z < minZ){minZ = base.z;}
     
   }
+  
+  //generates 900 frames for a 30 sec gif/video animation
   //println(ite);
   //saveFrame("framestif/#######.tif");
   //frame++;
