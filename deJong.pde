@@ -4,8 +4,6 @@ PeasyCam cam;
 final int maxIte = 10000000;
 float a = -5, b = -4.15, c = -3.1, d = -5, e = 2.27, f = -1.24, g = 0;
 //float a = -5, b = -4.15, c = -3.1, d = -5, e = 1, f = 1, g = 0;
-//float a = -5, b = -4.15, c = -3.1, d = -5, e = 1, f = 1, g = 0;
-//float a = -5, b = -4.15, c = -3.1, d = -5, e = 1, f = 1, g = 0;
 
 PVector base = new PVector(0, 0);
 
