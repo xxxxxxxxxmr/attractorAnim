@@ -1,7 +1,11 @@
+# w/e
 /share/
-
 cliffordAnim.py
+/bin/
+pyvenv.cfg
 
+
+### TEMPLATE
 # Editors
 .vscode/
 
