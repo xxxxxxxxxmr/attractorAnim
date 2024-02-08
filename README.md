@@ -1,6 +1,12 @@
 # attractorAnim
 Processing / Python scripts for animating 2D/3D attractors.
 
+## preview :
+
+![1](https://github.com/mar1wokeup/attractorAnim/assets/110829015/0389724b-0a2d-4954-b8d1-a1be42c8af6a)
+
+![2](https://github.com/mar1wokeup/attractorAnim/assets/110829015/2a2f15a1-c9a7-4ec4-9f94-4a4a32e2e9ca)
+
 ## files :
 #### CliffordAnim.pde :
 runs the Clifford attractor with a = 4, b = 1.2, c = -1.5, d = 1.
