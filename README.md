@@ -3,9 +3,9 @@ Processing / Python scripts for animating 2D/3D attractors.
 
 ## preview :
 
-![1](https://github.com/mar1wokeup/attractorAnim/assets/110829015/0389724b-0a2d-4954-b8d1-a1be42c8af6a)
+![1](https://github.com/xxxxxxxxxmr/attractorAnim/assets/110829015/0389724b-0a2d-4954-b8d1-a1be42c8af6a)
 
-![2](https://github.com/mar1wokeup/attractorAnim/assets/110829015/2a2f15a1-c9a7-4ec4-9f94-4a4a32e2e9ca)
+![2](https://github.com/xxxxxxxxxmr/attractorAnim/assets/110829015/2a2f15a1-c9a7-4ec4-9f94-4a4a32e2e9ca)
 
 ## files :
 #### CliffordAnim.pde :
@@ -26,6 +26,6 @@ Just open the .pde files after install
 
 #### python GUI :
 - you'll need python3
-- just git clone the repo `git clone git:github.com:mar1wokeup/attractorAnim.git`
+- just git clone the repo `git clone git:github.com:xxxxxxxxxmr/attractorAnim.git`
 - then `cd attractorAnim && pip install -r requirements`
 - and `python CliffordAnimQT.py`
